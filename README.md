@@ -23,3 +23,8 @@ An Easier Way to Set Up Redux. You can configure the global store and create bot
 
 ### CSS
 
+### start it 
+npm install react-scripts@latest
+by npm start on your terminal
+
+
